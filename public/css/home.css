@@ -1,0 +1,48 @@
+ p {
+     color: rgb(102, 141, 192);
+ }
+ 
+ h3 {
+     color: white;
+ }
+ 
+ body {
+     background-image: url('me.jpg');
+ }
+ .partone
+ {
+    background-color: rgb(9, 9, 117);
+ }
+ .wuba
+ {
+    color: rgb(18, 19, 18);
+    text-align: center;
+ }
+ #contt
+ {
+    border-color: aqua;
+    border-style: calc(3px);
+    margin-left: 5px;
+    margin-top: 5px;
+    display :flex;
+    
+ }
+ a{
+    color: aliceblue;
+ }
+ .neww
+ {
+    background-color: blueviolet;
+ }
+ .dentamo
+ {
+    background-color: rgba(92, 173, 16, 0.055);
+    border-radius: 5px;
+    border-style: hidden;
+    align-self: center;
+    padding: 10px;
+ }
+ .container
+ {
+    display: flex;
+ }
